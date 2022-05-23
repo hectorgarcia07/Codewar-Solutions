@@ -5,7 +5,7 @@ https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/javascript
 function solution(input, markers) {
   let inputArr = input.split('')
   let answer = ''
-  let matchFound = false
+  let matchFound = false 
   
   inputArr.forEach(char => {
     
